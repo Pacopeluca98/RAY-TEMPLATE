@@ -86,6 +86,32 @@
     font-weight: 300;
     padding: 10px 25px;
   }
+  .btn-common2 {
+    font-size: 14px;
+    color: #33cc33;
+    border: 1px solid #33cc33;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    padding: 10px 25px;
+  }
+
+  .btn-common3 {
+    font-size: 14px;
+    color: #990099;
+    border: 1px solid #990099;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    padding: 10px 25px;
+  }
+
+  .btn-common4 {
+    font-size: 14px;
+    color: #ff8533;
+    border: 1px solid #ff8533;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    padding: 10px 25px;
+  }
 
   #action .col-sm-5{
     position: absolute;
@@ -227,6 +253,9 @@
 
 .social-icons ul li a:hover .fa-facebook {
   color:#0884d5;
+}
+.social-icons ul li a:hover.fa_instagram{
+  color:#9C27B0;   
 }
 
 .social-icons ul li a:hover .fa-twitter {
@@ -532,6 +561,7 @@ ul.sub-menu {
 /*************************
 *******Home Page******
 **************************/
+
 #home-slider {
   background: url(../resources/image/home/slider-bg.png) 0 100% repeat-x;
   position: relative;
