@@ -19,7 +19,7 @@ top: 0px;
 left: 0px;
 z-index: 800;
 display: block;
-background:url(./Imagenes/fondo.jpg);
+background:url(../Imagenes/fondo.jpg);
  background-repeat:no-repeat;
  background-size: cover;
  padding:0px;
